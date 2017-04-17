@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["skhdroid-skhdroid.c9users.io"]
 
-
+LOGIN_REDIRECT_URL = '/'
 # Application definition
 
 INSTALLED_APPS = [
